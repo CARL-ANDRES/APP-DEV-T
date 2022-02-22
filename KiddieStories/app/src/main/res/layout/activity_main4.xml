@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4"
+    android:background="@drawable/background">
+
+   <androidx.constraintlayout.widget.ConstraintLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+
+       <LinearLayout
+           android:id="@+id/linearLayout2"
+           android:layout_width="328dp"
+           android:layout_height="1350dp"
+           android:background="#fff"
+           android:orientation="vertical"
+           app:layout_constraintBottom_toBottomOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toTopOf="parent">
+
+           <Button
+               android:layout_width="283dp"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:layout_marginTop="10dp"
+               android:text="The Lonely Princess"
+               android:textStyle="bold" />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="2500dp"
+               android:layout_marginLeft="20dp"
+               android:layout_marginRight="20dp"
+               android:layout_marginBottom="180dp"
+               android:fontFamily="sans-serif-black"
+               android:text="Long long ago, there lived three young princesses in the Kingdom of Glora. Of the three sisters, Isabelle was the youngest. She was a kind and warm person, friendly to everyone. The other two sisters, Rose, and Juliette, were very beautiful but cruel and heartless.
+
+Isabelle always played with her dolls and did not pay attention to her appearance. Rose and Juliette would tease Isabelle and she felt lonely. King Paul loved Isabelle the most.
+
+On a bright summer morning, King Paul tells his three daughters that a Prince named Geoffrey from the Kingdom of Meadowhill was on his way to the Kingdom of Glora in search of a bride. Rose, Juliette, and Isabelle get excited to meet Prince Geoffrey.
+Prince Geoffrey speaks to Juliette first. He compliments Juliette on her hair but gets bored when she talks only about her hair and nothing else. Then Geoffrey starts talking to Rose, she tries to impress him by sharing the achievements of her father’s court and all the famous noblemen and knights. Prince Geoffrey soon grows bored and moves his attention to Isabelle.
+
+When Prince Geoffrey looks at Isabelle, he tells her she is very beautiful. Isabelle turns red.
+
+But Juliette retorts, “She’s not beautiful! She’s ugly!”
+“Her hair! It’s so untidy!” Rose adds.
+“It’s the eyes,” Prince Geoffrey says. “She is blessed with beautiful eyes.”
+“But she plays with toys!” Juliette tells Geoffrey.
+
+Rose and Juliette leave no stone unturned to embarrass Isabelle but the prince remains unrelenting.
+
+“So what, even I play with dolls. I got one here too! Her name is Jane, and she is my oldest friend,” he says pulling out a small doll from his pocket.
+
+“Would you like to meet my friends, Prince Geoffrey?” Isabelle asks.
+
+“I would love to,” says Prince Geoffrey. They head to the garden and start playing with dolls, leaving Rose and Juliette behind."
+               android:textSize="18.5dp" />
+
+
+       </LinearLayout>
+
+
+
+
+   </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</ScrollView>

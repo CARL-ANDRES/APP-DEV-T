@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".QuizScoresActivity">
+
+    <LinearLayout
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:onClick="q1"
+            android:text="Story1:The Lonely Princess" />
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:onClick="q2"
+            android:text="Story2:Elephant and Friends" />
+
+        <Button
+            android:id="@+id/btn3"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:onClick="q3"
+            android:text="Story3:Snow White" />
+
+        <Button
+            android:id="@+id/btn4"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:onClick="q4"
+            android:text="Story4:The Ant and The Dove" />
+
+        <Button
+            android:id="@+id/btn5"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:onClick="q5"
+            android:text="Story5:The Hungry Fox" />
+
+        <Button
+            android:onClick="q6"
+            android:id="@+id/btn6"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Story6:A Faithful Dog" />
+
+        <Button
+            android:onClick="q7"
+            android:id="@+id/btn7"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Story7:The Monkey and the Crocodile" />
+
+        <Button
+            android:onClick="q8"
+            android:id="@+id/btn8"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Story8:The Ant and the Grasshopper" />
+
+        <Button
+            android:onClick="q9"
+            android:id="@+id/btn9"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Story9:The Little Girl and Mushrooms" />
+
+        <Button
+            android:onClick="q10"
+            android:id="@+id/btn10"
+            android:layout_width="319dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="100dp"
+            android:text="Story10:The FriendShip of A Lion and A Mouse" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

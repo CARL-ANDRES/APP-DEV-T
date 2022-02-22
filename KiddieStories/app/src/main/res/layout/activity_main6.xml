@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity6"
+    android:background="@drawable/background">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="328dp"
+            android:layout_height="1500dp"
+            android:layout_marginTop="64dp"
+            android:background="#fff"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="100dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <Button
+                android:layout_width="283dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="Snow White"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1459dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="150dp"
+                android:fontFamily="sans-serif-black"
+                android:text="         Once upon a time, there lived a beautiful princess called Snow White. She was kind, gentle and had many friends who were animals. One fine day, Snow White meets a handsome, charming prince. They become friends and their bond grows.
+
+The Queen, who is Snow White’s evil stepmother, discovers about their relationship and out of jealousy, orders a huntsman to kill Snow White. But the huntsman could not gather the courage to hurt Snow White and requests her to escape and run to a faraway land.
+
+Snow White escapes into the woods. Exhausted and trembling in fear, she knocks at a cottage door. When nobody answers, she steps inside. She finds the cottage in a mess and very untidy and decides to clean it with the help of her friends from the forest.
+
+As she explores the rest of the cottage, she finds seven tiny beds and assumes they are for little children. She curls up on the bed and falls asleep.
+
+After a long day of work, seven dwarfs head back home to their cottage in the forest and find the beautiful girl sleeping on their bed. When Snow White wakes up, she is mesmerized by the Seven Dwarfs: Sneezy, Bashful, Happy, Grumpy, Dopey, Sleepy, and Doc.
+
+Snow White narrates her painful story and the dwarfs decide to protect the beautiful princess from such an evil queen.
+
+When the evil queen learns about Snow White, she is infuriated. She makes a magic potion and injects it into an apple. Next day when the dwarfs are off to work, the queen disguises herself as an old hag lady and offers an apple to Snow White.
+
+When Snow White takes a bite of the poisoned apple, she falls asleep and a spell is a cast which can be broken only by true love. The dwarfs discover the evil act of the queen and with the help of all the animals, they trap her on the top of a cliff. She reaches the edge of the cliff when lightning strikes she loses her balance and falls into the valley and dies.
+
+Eventually, Snow White’s Prince Charming finds her in the forest. He awakens Snow White with his first kiss, thus breaking the spell. Snow White and the Prince return to the kingdom and live happily ever after.
+"
+                android:textSize="18.3dp" />
+
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</ScrollView>
+
+
+

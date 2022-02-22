@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity12"
+    android:background="@drawable/background">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="328dp"
+            android:layout_height="1955dp"
+            android:layout_marginTop="64dp"
+            android:background="#fff"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="100dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <Button
+                android:layout_width="283dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="The Little Girl And Mushrooms" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2048dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:fontFamily="sans-serif-black"
+                android:textSize="18.2dp"
+                android:layout_marginBottom="150dp"
+                android:text="     It was a fine summer morning, perfect to be outdoors. Two sisters had been out mushroom picking, and were on their home with heavy baskets full of mushrooms. They sang songs on the way, and played with each other.
+Soon they reached a point where they had to cross a railway track. They did not think twice about crossing it since there was no train coming, and they could not hear any whistle. They slowly climbed the embankment to cross the track, taking care not to drop the baskets. They were very near the track and the little sister was about the cross it, when they heard the distinct horn of a train.
+The older sister got frightened and ran back. She thought that the young one was following her. She turned back and was shocked to see her little sister still crossing the track. Come back here, run back fast, she screamed.
+It seemed that the little girl could not hear her sister. She was still concentrating on stepping over the track with her little feet, and holding on to the basket. Then she tripped and fell on the track, scattering her mushrooms around. She sat down and began picking them up and putting in her basket.
+            In the meanwhile the elder sister had become hysteric. She cried and screamed, calling her little sister to leave the mushrooms and run back, but it seemed as though the little one could not hear her.
+The engine driver panicked on seeing the girl and blew his whistle with all his might, but she appeared not to hear the whistle. Her sister was now crying loudly, overcome by panic, as the little sister crawled between the tracks on her hands and knees, to pick the rest of the mushrooms.
+            The engine driver was helpless as it was not possible for him to stop the engine suddenly. He blew the whistle as hard as he could, but the engine rolled over the little girl. The older sister clasped her face with her trembling hands and cried bitterly. The passengers too panicked at the thought of the sight they would have to witness. The guard ran down to the end of the train to see what happened to the little girl. When the train passed, everybody saw her lying very still between the tracks with her face down.
+Then she raised her head, sprang to her knees and began gathering the remaining mushrooms.
+The big sister ran towards her, tears streaming down her face. They hugged and kissed each other, crying out of happiness, tears of joy flowing down their little cheeks. Never were two souls so happily united as at that moment. She promised her little sister that thereafter she would hold her hand tightly while crossing the railway line.The two sisters then picked all the remaining mushrooms, and hand in hand, solemnly walked back home. They were indeed two souls who had become wiser than their years, in the span of a few minutes.
+            " />
+
+        </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

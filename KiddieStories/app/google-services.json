@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382781222127",
+    "project_id": "kiddiestories-18850",
+    "storage_bucket": "kiddiestories-18850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382781222127:android:4d47e1b303c46cf1233f1a",
+        "android_client_info": {
+          "package_name": "com.example.kiddiestories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382781222127-m972j5tn65goq6b8ms1drvf8ulh2a0n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxlyQNlBfRsKuO67l0LWlBrpZiwerzjdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382781222127-m972j5tn65goq6b8ms1drvf8ulh2a0n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

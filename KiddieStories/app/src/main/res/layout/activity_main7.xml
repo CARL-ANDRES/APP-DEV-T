@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity7"
+    android:background="@drawable/background">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="328dp"
+            android:layout_height="660dp"
+            android:layout_marginTop="64dp"
+            android:background="#fff"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="100dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <Button
+                android:layout_width="283dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="The Ant and The Dove" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="820dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:fontFamily="sans-serif-black"
+                android:textSize="18.4dp"
+                android:layout_marginBottom="150dp"
+                android:text="     One hot day, an ant was searching for some water. After walking around for some time, she came to a spring. To reach the spring, she had to climb up a blade of grass. While making her way up, she slipped and fell into the water.
+
+She could have drowned if a dove up a nearby tree had not seen her. Seeing that the ant was in trouble, the dove quickly plucked a leaf and dropped it into the water near the struggling ant. The ant moved towards the leaf and climbed up onto it. Soon, the leaf drifted to dry ground, and the ant jumped out. She was safe at last.
+
+Just at that time, a hunter nearby was about to throw his net over the dove, hoping to trap it.
+
+Guessing what he was about to do, the ant quickly bit him on the heel. Feeling the pain, the hunter dropped his net. The dove was quick to fly away to safety.
+
+One good turn begets another.
+"/>
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</ScrollView>

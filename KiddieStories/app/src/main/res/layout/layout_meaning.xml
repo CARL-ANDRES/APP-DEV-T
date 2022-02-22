@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/white"
+    android:padding="8dp"
+    android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WORD"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:id="@+id/tvWord"/>
+    <TextView
+        android:textSize="22sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WORD"
+        android:textColor="@color/gray"
+        android:textAlignment="center"
+        android:id="@+id/tvMeaning"/>
+    <Button
+        android:textColor="@color/white"
+        android:text="close"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnClose"/>
+
+</LinearLayout>

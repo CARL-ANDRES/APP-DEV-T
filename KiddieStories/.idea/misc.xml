@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/drawable/layout_bg.xml" value="0.22239583333333332" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_dictionary.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_login.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main10.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main11.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main12.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main13.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main14.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main15.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main16.xml" value="0.14907407407407408" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main17.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main2.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main3.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main4.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main5.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main6.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main7.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main8.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_main9.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_quiz.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_quiz_list.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_quiz_scores.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_registration.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_score.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_score_board.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_scores.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_story_quiz.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_test.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_weather.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/activity_weather_report.xml" value="0.2125" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/ball.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/layout_meaning.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/layout_scores.xml" value="0.3145833333333333" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/layout/zebra.xml" value="0.20208333333333334" />
+        <entry key="..\:/Files/Download/KiddieStories/app/src/main/res/xml/network_security_config.xml" value="0.3145833333333333" />
+        <entry key="..\:/KiddieStories/app/src/main/res/drawable/style.xml" value="0.14814814814814814" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_dictionary.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main10.xml" value="0.18" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main11.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main12.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main13.xml" value="0.18773946360153257" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main14.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main15.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main17.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main3.xml" value="0.2" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main4.xml" value="0.2" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main5.xml" value="0.2" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main6.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main7.xml" value="0.18" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main8.xml" value="0.14" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_main9.xml" value="0.21" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_quiz.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_quiz_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_quiz_scores.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_score_board.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_scores.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_story_quiz.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/activity_test.xml" value="0.2" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/apple.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/car.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/nest.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/owl.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/umbrella.xml" value="0.20416666666666666" />
+        <entry key="..\:/KiddieStories/app/src/main/res/layout/zebra.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/geral/Desktop/KiddieStories/app/src/main/res/layout/activity_main9.xml" value="0.3359375" />
+        <entry key="..\:/Users/geral/Desktop/KiddieStories/app/src/main/res/layout/activity_profile.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

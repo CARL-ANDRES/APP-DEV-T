@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity10"
+    android:background="@drawable/background">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="328dp"
+            android:layout_height="2080dp"
+            android:layout_marginTop="64dp"
+            android:background="#fff"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.602"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <Button
+                android:layout_width="283dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="The Monkey and the Crocodile" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2028dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="150dp"
+                android:fontFamily="sans-serif-black"
+                android:text="  It was a beautiful lake surrounded by lush green grasses, beautiful trees, mountains and sweetest, tastiest jamun trees. There lived a monkey on one of the jamun trees located near the lake.
+
+The lake also had a few crocodiles. There was one crocodile that used to collect the jamun fruits from the lake that fall from the tree.
+
+As the crocodile visits the jamun trees every day, it became friends with Monkey. Crocodile and monkey met every day. The monkey helped crocodile by providing more and fresh jamun fruits from the tree. Their relationship continued and they became close pals.
+
+One day, the monkey asked the crocodile to give some jamun fruits to his wife and family as the fruits were more delicious. The crocodile agreed and took a lot of jamun fruits to his wife.
+
+His wife was so happy and surprised that she never ate so delicious fruits, so far. She inquired her husband, where he got those fruits. The crocodile told her, his friend, monkey who lives in a Jamun tree gave these for him.
+
+The wife crocodile made a plan in her mind. She asked her husband, 'Does your friend eat these fruits every day?' The crocodile replied yes. She added, 'Oh my goodness. These are the sweetest fruits we ever ate. Imagine how delicious the monkey's heart would be if he eat these fruits daily! I need the heart of your friend. Can you please bring it for me?'
+
+The crocodile was shocked to hear it from his wife. He replied, 'But he is my close friend. I can't do this to him.'
+
+The wife crocodile told him, 'don't worry. You bring him here. I will then take care! Or else, you may try to push him down into the water if he doesn't know swimming!'
+
+After a long time, the crocodile agreed to bring monkey to his wife.
+
+The very next day, crocodile invited monkey to join them for lunch and asked for his favorite foods. Monkey happily agreed to be the guest and but worried that the monkey did not know how to swim in the lake.
+
+Crocodile on thinking about monkey's sorrow, pleased monkey and told him, 'Don't worry. I will carry you on my back and will take you back safely too!'
+
+The monkey accepted and crocodile rode him to his home on his back on the water. As they reached half way, the crocodile tried to push monkey down into the water. However, monkey held the crocodile tightly and did not fall. Monkey got suspicious about crocodile's act and asked him to tell the truth.
+
+Since crocodile believed him as his good friend, he told about the conversation and the fight his wife had with him and he was taking monkey to eat his heart!
+
+The intelligent monkey said, 'Oh my dear friend, you should have told me this earlier. I left my heart on one of the branches of the tree as I won't carry it if I travel long. If you take me back, I can give you my heart.'
+
+Crocodile accepted and rode the monkey back to the lake. As they reached the tree where the monkey lived, the monkey climbed quickly and escaped from the crocodile.
+
+He shouted at crocodile, 'I thought you as a good friend, but you cheated me. I will never come back and never be your friend.'
+
+The crocodile understood his mistake and returned back home empty handed, losing a good friend indeed.
+"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

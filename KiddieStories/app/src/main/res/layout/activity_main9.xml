@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity9"
+    android:background="@drawable/background">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="328dp"
+            android:layout_height="1345dp"
+            android:layout_marginTop="64dp"
+            android:background="#fff"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="100dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <Button
+                android:layout_width="283dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="A Faithful Dog" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1342dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="150dp"
+                android:fontFamily="sans-serif-black"
+                android:text="     Neil loves to travel and he was so fond of forests. Whenever he plans for a holiday, he would choose a place that is blessed by Mother Nature. To celebrate his son's second birthday, he decided to stay and enjoy the celebration in woods, located at the lap of a mountain. He with his family and friends, reached the village located near the woods and had his stay in the cottage. The cottage was located at the entrance of the dense forest, where the guests can view animals roaming in the nearby place.
+
+Neil's son saw a dog at the door and offered him a biscuit. The dog was happy and very soon the little boy befriended the dog. On second day, the birthday of the boy was celebrated grandly in the woods within beautiful nature. The dog did not leave the boy even for a minute and they both became close pals.
+
+The next day, Neil, his wife and others decided to go for hunting in the forest and arranged a babysitter to take care of the little for half a day.
+
+After 3 hours, all the elders returned to the cottage and they seemed very tired. The dog saw Neil and others, it rushed to them and licked Neil's shoes. The cottage was open and nobody was there.
+
+Man with DogNeil's wife was shocked to see the blood stains in the dog's mouth and she shouted. All of them thought that the dog has killed Neil's little boy. Everyone was shocked to see the blood-spattered mouth and started to lash the dog. The dog screamed in pain. Neil hit the dog with his gun and it was wounded badly. Hearing the dog's screaming noise, the babysitter rushed to the entrance with Neil's son.
+
+They were all speechless and enquired what happened to the dog and why blood stains in the dog's mouth was?
+
+The babysitter told that the boy was about to get attacked by a wolf which roamed around the house, but luckily it was killed by the dog. She showed the dead wolf to them.
+
+They felt so bad and offered first aid to the wounded dog.
+
+Haste makes waste! Decisions made in hurry won't be helpful.
+"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>

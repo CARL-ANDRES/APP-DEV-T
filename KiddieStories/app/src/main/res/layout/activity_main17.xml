@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity15"
+    android:background="@drawable/background3">
+
+
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/text1"
+            android:onClick="a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:text="a"
+            android:textColor="#B8255F"/>
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.047">
+
+        <TextView
+            android:id="@+id/text2"
+            android:onClick="b"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="b"
+            android:textColor="#DB4035"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.648"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.049">
+
+        <TextView
+            android:id="@+id/text3"
+            android:onClick="c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="c"
+            android:textColor="#FF9933"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.948"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.049">
+
+        <TextView
+            android:id="@+id/text4"
+            android:onClick="d"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="d"
+            android:textColor="#FAD000"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.182">
+
+        <TextView
+            android:id="@+id/text5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:gravity="center"
+            android:onClick="f"
+            android:text="f"
+            android:textColor="#7eCC49"
+            android:textSize="25dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.948"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.182" >
+
+        <TextView
+            android:id="@+id/text6"
+            android:onClick="h"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="h"
+            android:textColor="#7eCC49"/>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.183" >
+
+
+        <TextView
+            android:id="@+id/text7"
+            android:onClick="e"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="e"
+            android:textColor="#AFB838"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.648"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.182" >
+
+        <TextView
+            android:id="@+id/text8"
+            android:onClick="g"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="g"
+            android:textColor="#6ACCBC"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.948"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.315" >
+
+        <TextView
+            android:id="@+id/text9"
+            android:onClick="l"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="l"
+            android:textColor="#884DFF"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.315" >
+
+        <TextView
+            android:id="@+id/text10"
+            android:onClick="i"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="i"
+            android:textColor="#158FAD"/>
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.315" >
+
+
+        <TextView
+            android:id="@+id/text11"
+            android:onClick="j"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="j"
+            android:textColor="#14AAF5"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.648"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.315" >
+
+        <TextView
+            android:id="@+id/text12"
+            android:onClick="k"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="k"
+            android:textColor="#96C3EB"/>
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.447" >
+
+        <TextView
+            android:id="@+id/text13"
+            android:onClick="m"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="m"
+            android:textColor="#884DFF"/>
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.447" >
+
+        <TextView
+            android:id="@+id/text14"
+            android:onClick="n"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="n"
+            android:textColor="#AF38EB"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.648"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.447" >
+
+        <TextView
+            android:id="@+id/text15"
+            android:onClick="o"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="o"
+            android:textColor="#EB96EB"/>
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.948"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.447" >
+
+        <TextView
+            android:id="@+id/text16"
+            android:onClick="p"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="p"
+            android:textColor="#E05194"/>
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.58" >
+
+        <TextView
+            android:id="@+id/text17"
+            android:onClick="q"
+            android:layout_width="93dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:gravity="center"
+            android:text="q"
+            android:textSize="25dp"
+            android:textColor="#FF8D85"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.58" >
+
+        <TextView
+            android:id="@+id/text18"
+            android:onClick="r"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="r"
+            android:textColor="#299438"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.648"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.58" >
+
+
+        <TextView
+            android:id="@+id/text19"
+            android:onClick="s"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="s"
+            android:textColor="#DB4035"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.948"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.58" >
+
+        <TextView
+            android:id="@+id/text20"
+            android:onClick="t"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="t"
+            android:textColor="#B8255F"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.712" >
+
+        <TextView
+            android:id="@+id/text21"
+            android:onClick="u"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="u"
+            android:textColor="#299438"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.712" >
+
+        <TextView
+            android:id="@+id/text22"
+            android:onClick="v"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="v"
+            android:textColor="#7eCC49"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.648"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.712" >
+
+        <TextView
+            android:id="@+id/text23"
+            android:onClick="w"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="w"
+            android:textColor="#DB4035"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.948"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.712" >
+
+        <TextView
+            android:id="@+id/text24"
+            android:onClick="x"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="x"
+            android:textColor="#FAD000"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/textView25"
+        android:onClick="Yak"
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.843" >
+
+        <TextView
+            android:id="@+id/text26"
+            android:onClick="y"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="y"
+            android:textColor="#AFB838"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:background="@drawable/style"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.843" >
+
+        <TextView
+            android:id="@+id/text27"
+            android:onClick="z"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/seymourone"
+            android:textSize="25dp"
+            android:text="z"
+            android:textColor="#FF9933"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:text="play"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.941" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
